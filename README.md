@@ -1,2 +1,1 @@
-# conflict-exercise
- Repositorio diseñado para practicar y resolver conflictos.
+Este es un cambio en la main branch.
